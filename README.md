@@ -20,7 +20,7 @@ This project sets up a documentation site using MkDocs Material, builds it with 
 
 For secure publishing on the internet, it's recommended to use a reverse proxy with SSL/TLS encryption. Here's a general approach:
 
-1. Set up a reverse proxy server in my case i using Nginx on the same server.
+1. Set up a reverse proxy server in my case I'm using Nginx on the same server.
 2. Configure the reverse proxy to forward requests to your Docker container's port 8080.
 3. Obtain an SSL certificate from a provider like Let's Encrypt.
 4. Configure the reverse proxy to use the SSL certificate and handle HTTPS connections.
