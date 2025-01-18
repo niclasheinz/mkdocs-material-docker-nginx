@@ -1,0 +1,4 @@
+site_name: Demo site
+site_url: https://example.com
+theme:
+  name: material
